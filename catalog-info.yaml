@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Flappy-Bird
+  annotations:
+    github.com/project-slug: smilekison/Flappy-Bird
+spec:
+  type: other
+  lifecycle: unknown
